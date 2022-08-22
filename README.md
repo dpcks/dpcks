@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 예찬이의 코딩노트
-[코딩 노트]https://chanynote.tistory.com/manage
+[코딩 노트]https://chanynote.tistory.com/
 <!--
 **dpcks/dpcks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
